@@ -8,6 +8,7 @@ attrs==22.1.0
 backcall==0.2.0
 base58==1.0.3
 bitarray==1.2.2
+Brownie==0.5.1
 cached-property==1.5.2
 certifi==2022.6.15
 cffi==1.15.1
