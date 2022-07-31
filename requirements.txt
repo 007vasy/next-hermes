@@ -1,5 +1,6 @@
 aiohttp==3.8.1
 aiosignal==1.2.0
+ape-infura==0.3.1
 ape-vyper==0.4.0
 asttokens==2.0.5
 async-timeout==4.0.2
